@@ -27,8 +27,6 @@ All settings are defined in `pyproject.toml`. To run experiments with flexlora, 
 
 ## Evaluation Result
 
-We use Mistral-7B model with 4-bit quantization as default. The estimated VRAM consumption per client for each challenge is shown below:
-
 |          | Humanity | Social Science | STEM  | Average |
 |:--------:|:--------:|:--------------:|:-----:|:-------:|
 |  FedAvg  |  59.93   |     78.94      | 62.67 |  67.18  |
